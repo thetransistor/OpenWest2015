@@ -43,6 +43,7 @@ B | P14
 
 ## Serial EEPROM Programming / Spin Connection
 NOTE: Verify your FTDI is using 3.3v AND 3.3v logic levels!
+
 FTDI Serial | Badge
 ---|---
 RTS | RST
