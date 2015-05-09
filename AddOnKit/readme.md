@@ -3,8 +3,8 @@ The add on kit is a [Propeller](http://en.wikipedia.org/wiki/Parallax_Propeller)
 a display, and an SD card. There is an EEPROM bootloader that looks on the SD card and loads the program named run.bin.
 
 ##Using the Bitmap Loader##
-The bitmap loader program is found under Software/BMP Loader.  It will cycle through bitmaps it finds
-on the SD card.  It will first load default.bmp, then 1.bmp, and assume will keep going through higher numbers.
+The bitmap loader program is found under Software/BMP Loader.  It will cycle through two bitmaps it finds
+on the SD card.  It will first load default.bmp, then 1.bmp, the back to default.bmp, then 1.bmp, etc, ad nauseum.
 
 To run it, copy all of the contents of Software/BMP Loader to the SD card.
 
