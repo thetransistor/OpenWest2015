@@ -19,7 +19,7 @@
 - 1x [Parallax Propeller mCU](https://www.parallax.com/product/p8x32a-d40)
 - 1x 40 Pin Socket for mCU
 - 1x 2.2inch SPI TFT Display
-  - [ILI9341 Controller](www.adafruit.com/datasheets/ILI9341.pdf)
+  - [ILI9341 Controller](http://www.adafruit.com/datasheets/ILI9341.pdf)
   - 320x240 Resolution
 - 1x 5mhz Crystal Oscillator (mCU runs at 80mhz) 
 - 1x 24LC256 EEPROM
