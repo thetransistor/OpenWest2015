@@ -1,0 +1,12 @@
+start.cpp
+>-fno-exceptions
+>-fno-rtti
+>-ltiny
+>-m32bit-doubles
+>BOARD::C3-SDLOAD
+>compiler=C++
+>linker::
+>memtype=lmm main ram
+>optimize=-Os
+ILI9341-spi.cpp
+ILI9341-spi.h
