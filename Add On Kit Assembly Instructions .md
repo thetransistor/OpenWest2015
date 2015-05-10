@@ -5,24 +5,24 @@ Assembly Instructions
 ## Step 1: Identify Parts
 Step 1: Identify Parts
 You should have the following parts in your kit:
-(2) Button Boards
-(1) [2.2” Color LCD](http://www.adafruit.com/datasheets/ILI9341.pdf)
-(1) [Propeller Microcontroller](https://www.parallax.com/product/p8x32a-d40)
-(1) 40 Pin Socket
-(6) Tactile Buttons
-(1) Slide Switch
-(1) Tilt Switch
-(2) 0.1uF Capacitors (in the white packaging)
-(2) 1uF Capacitors (in the clear packaging)
-(10) 10K Ohm Resistors
-(2) 10 Ohm Resistors
-(1) Voltage Regulator
-(1) Mosfet
-(1) 5 MHZ Crystal
-(1) EEPROM
-(1) Micro SD Card
-(1) SD Card Adapter
-(1) Pin Strip
+- 2x Button Boards
+- 1x [2.2" Color LCD](http://www.adafruit.com/datasheets/ILI9341.pdf)
+- 1x [Propeller Microcontroller](https://www.parallax.com/product/p8x32a-d40)
+- 1x 40 Pin Socket
+- 6x Tactile Buttons
+- 1x Slide Switch
+- 1x Tilt Switch
+- 2x 0.1uF Capacitors (in the white packaging)
+- 2x 1uF Capacitors (in the clear packaging)
+- 10x 10K Ohm Resistors
+- 2x 10 Ohm Resistors
+- 1x Voltage Regulator
+- 1x Mosfet
+- 1x 5 MHZ Crystal
+- 1x EEPROM
+- 1x Micro SD Card
+- 1x SD Card Adapter
+- 1x Pin Strip
 
 If you are missing parts, please let us know. 
 ![Step One Image](/images/instructions/addon_step1.jpg)
