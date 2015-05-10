@@ -9,7 +9,9 @@ This binary will loop threw all images in the `/img/` directory on your SD card 
 
 ## Generating bitmaps with Gimp
 
+Bitmap images need to be 24bit bitmaps without any of the color space data included in the image file, and currently because of display settings need to be upside down if the badge is being worn on a lanyard. [Gimp](http://www.gimp.org/) is one of the best tools for generating these.
 
+![Gimp bitmap generation](_resources/gimp-bmp.gif)
 
 ## Changelog
 
