@@ -18,6 +18,7 @@ The button test program shows a letter on the screen for each button.  When a bu
 ##Writing Your Own Code##
 - Go get [Propeller IDE](http://developer.parallax.com/projects/propelleride/).
 - Write a program in Spin
+  - [Intro to Spin programming language](http://letsmakerobots.com/node/18214)
   - [Propeller Spin Tutorials](http://learn.parallax.com/propeller-spin-tutorials)
   - [Helpful Propeller Instructable](http://www.instructables.com/id/Programming-the-Propeller-Microcontroller/)
   - [Badge Spin Example](https://github.com/thetransistor/OpenWest2015/tree/master/AddOnKit/Software)
