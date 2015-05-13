@@ -67,6 +67,7 @@ PUB TestPins | i, x, y, pinval
   disp.DrawStringSmall(0,220,@footer)
 
   repeat
+    disp.SetColours(cBLUE, cWHITE)
     repeat i from 0 to 31
       pinval := ina[i]
       x := ((i) / 4 * 40) + 20
